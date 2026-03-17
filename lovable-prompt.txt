@@ -1,0 +1,14 @@
+Update the app with the data below.
+
+Image URLs: https://source.unsplash.com/600x400/?{image_keyword} (spaces → +)
+
+Feed cards: headline=title, lateral_hook=blue italic, topic=pill, read_time_min="X min", depth: intro=1 bar, building=2 bars, deep=3 bars.
+
+Detail view on tap:
+1. Image header 300px
+2. Topic + time + depth
+3. Headline bold
+4. "The story": summary field
+5. Divider
+6. "The lateral connection": lateral_hook cyan italic + lateral_explanation below (essay style)
+7. "Read original" → url
