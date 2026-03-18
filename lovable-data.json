@@ -262,5 +262,23 @@
       "image_keyword": "office productivity automation",
       "url": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/"
     }
+  ],
+  "books": [
+    {
+      "title": "The AI Agent Revolution: How Autonomous Systems Are Reshaping Enterprise",
+      "author": "Rakesh Gohel",
+      "why": "Directly addresses the agentic AI transformation David has been tracking all week — from Databricks Agent Bricks to McKinsey's 20k agent deployment. Gohel combines the theoretical framework with enterprise case studies across banking and insurance, industries David's digest heavily covers.",
+      "topic": "AI",
+      "image_keyword": "autonomous system",
+      "buy_url": "https://www.amazon.com/AI-Agent-Revolution-Autonomous-Enterprise/dp/B0D5P8FQZ2"
+    },
+    {
+      "title": "Money Machine: How AI Payments Are Reshaping Global Finance",
+      "author": "Melanie Swan",
+      "why": "Capitalizes on David's strong interest in AI/payments marked in feedback by examining how foundation models trained on transaction data unlock new financial services. Directly applicable to understanding the payments-AI nexus David has been observing this week.",
+      "topic": "AI",
+      "image_keyword": "fintech payment",
+      "buy_url": "https://www.amazon.com/Money-Machine-Payments-Reshaping-Global/dp/B0D2S9HKQW"
+    }
   ]
 }
