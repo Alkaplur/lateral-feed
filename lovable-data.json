@@ -1,332 +1,6 @@
 {
-  "date": "2026-03-22",
-  "topics": [
-    "GEN.AI",
-    "AI WORKFORCE",
-    "Bohemia MADRILEÑa"
-  ],
-  "stories": [
-    {
-      "id": "1",
-      "topic": "GEN.AI",
-      "headline": "OpenClaw's viral rise at GTC sparks fear that AI models are becoming commodities",
-      "summary": "Austrian open-source agent platform OpenClaw took center stage at NVIDIA GTC after Jensen Huang called it 'the most popular open-source project in the history of humanity' and 'definitely the next ChatGPT,' triggering analyst concern that AI model value is flowing outside the Magnificent 7 toward open, local, autonomous agent frameworks. The development signals the next AI competitive front is not raw model intelligence but who controls the agent layer — and whether it can run without depending on any single lab.",
-      "lateral_hook": "connects to Gutenberg press vs scribal guilds",
-      "lateral_explanation": "When Gutenberg's press commoditized manuscript reproduction in the 1450s, the value that had concentrated in monastic scriptoria — in the skilled hands that controlled access to written knowledge — migrated instantly to whoever controlled distribution and the printing presses themselves. OpenClaw is",
-      "read_time_min": 5,
-      "depth": "deep",
-      "image_keyword": "open source code",
-      "url": "https://www.cnbc.com/2026/03/21/openclaw-chatgpt-moment-sparks-concern-ai-models-becoming-commodities.html"
-    },
-    {
-      "id": "2",
-      "topic": "GEN.AI",
-      "headline": "Perplexity launches Computer for Enterprise at Ask 2026: Slack, Snowflake connectors and 20 orchestrated models",
-      "summary": "Perplexity announced at its Ask 2026 developer conference that its multi-model Computer agent is now available to enterprises with native Slack integration, Snowflake/Salesforce/SharePoint connectors, and 20 orchestrated AI models — directly competing with Microsoft Copilot and Salesforce Agentforce. One enterprise customer reported the platform compressed 3.25 years of accumulated knowledge work into four weeks, with the package including SOC 2 Type II certification and zero data retention options.",
-      "lateral_hook": "connects to telegraph operator monopoly collapse",
-      "lateral_explanation": "The Western Union Telegraph Company held near-total monopoly over long-distance communication until the telephone didn't just improve telegraphy — it made the intermediary operator unnecessary. Perplexity's enterprise Computer does the same thing to the enterprise software stack: by orchestrating 20",
-      "read_time_min": 5,
-      "depth": "building",
-      "image_keyword": "enterprise software dashboard",
-      "url": "https://venturebeat.com/technology/perplexity-takes-its-computer-ai-agent-into-the-enterprise-taking-aim-at"
-    },
-    {
-      "id": "3",
-      "topic": "GEN.AI",
-      "headline": "Google open-sources Always On Memory Agent: LLM replaces vector database for persistent agent memory",
-      "summary": "A Google PM published an open-source Always On Memory Agent built on the Agent Development Kit and Gemini 3.1 Flash-Lite, designed to run continuously as a background process ingesting content and building structured memory records in SQLite — consolidating every 30 minutes without relying on vector databases or embeddings. The project signals where agent infrastructure is heading: away from embedding pipelines toward LLM-managed memory that understands and structures what it stores.",
-      "lateral_hook": "connects to medieval chronicle continuous writing",
-      "lateral_explanation": "Medieval chroniclers like Matthew Paris did not write history in retrospect — they maintained a continuous record of events as they unfolded, adding entries day by day, annotating previous entries with new context, and building a living document that accumulated meaning over time rather than being f",
-      "read_time_min": 4,
-      "depth": "deep",
-      "image_keyword": "memory archive",
-      "url": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for"
-    },
-    {
-      "id": "4",
-      "topic": "GEN.AI",
-      "headline": "Deeptune raises $43M (a16z) to build RL training gyms simulating accountants, DevOps, and support workflows",
-      "summary": "Andreessen Horowitz led a $43M Series A in Deeptune, which creates high-fidelity reinforcement learning environments that simulate professional workflows — accountants navigating audit software, DevOps engineers managing incidents, support agents resolving tickets — so AI agents can learn through practice in realistic enterprise environments. The bet is that as internet training data is exhausted, the next AI breakthrough comes from agents trained in complex interactive simulations that mirror the actual messy structure of real work.",
-      "lateral_hook": "connects to flight simulator methodology",
-      "lateral_explanation": "Before the Link Trainer in the 1930s, pilots learned to fly by flying — meaning the only way to develop judgment in dangerous edge cases was to encounter them in a real aircraft, at real risk. The flight simulator was revolutionary not because it was cheaper training but because it made deliberate p",
-      "read_time_min": 5,
-      "depth": "building",
-      "image_keyword": "simulation training",
-      "url": "https://fortune.com/2026/03/19/andreessen-horowitz-ai-startups-deeptune-series-a/"
-    },
-    {
-      "id": "5",
-      "topic": "GEN.AI",
-      "headline": "OpenAI abandons Instant Checkout and pivots to retailer apps as Amazon emerges as dominant agentic commerce partner",
-      "summary": "OpenAI is abandoning its Instant Checkout feature — which had only about 30 live Shopify merchants and persistent errors — and pivoting to a dedicated retailer app model inside ChatGPT that routes users to retailers' own sites for purchase completion. Meanwhile, the Shopify partnership appears to be collapsing while Amazon, which has invested up to $50B in OpenAI, is emerging as the dominant agentic commerce relationship.",
-      "lateral_hook": "connects to department store floor plan psychology",
-      "lateral_explanation": "When department stores replaced specialty shops in the late 19th century, their greatest insight was that controlling the physical path through the store controlled purchase behavior — milk at the back, perfume at the entrance, impulse items at checkout. OpenAI's shift from Instant Checkout to retai",
-      "read_time_min": 4,
-      "depth": "building",
-      "image_keyword": "online shopping cart",
-      "url": "https://www.cnbc.com/2026/03/20/open-ai-agentic-shopping-etsy-shopify-walmart-amazon.html"
-    },
-    {
-      "id": "6",
-      "topic": "GEN.AI",
-      "headline": "Yann LeCun's AMI Labs raises $1.03B in Europe's largest-ever seed round — bets world models beat LLMs",
-      "summary": "AMI Labs, founded by Yann LeCun, raised $1.03 billion in what is described as the largest seed round in European startup history, betting that JEPA world models — which learn by predicting what should happen next in structured environments — will surpass language models for tasks requiring physical reasoning and causal understanding. The funding positions AMI Labs as the primary institutional counter-thesis to LLM dominance in AI.",
-      "lateral_hook": "connects to Kant's synthetic a priori knowledge",
-      "lateral_explanation": "Immanuel Kant argued that some knowledge is synthetic a priori — it precedes experience and yet tells us something true about the world, like the knowledge that every effect must have a cause. JEPA's world models are built on a structurally similar bet: that intelligence can be developed by training",
-      "read_time_min": 6,
-      "depth": "deep",
-      "image_keyword": "world model architecture",
-      "url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
-    },
-    {
-      "id": "7",
-      "topic": "GEN.AI",
-      "headline": "OpenAI releases GPT-5.4 mini and nano: compact efficiency models for subagents, tool use, and multimodal tasks",
-      "summary": "OpenAI released GPT-5.4 mini and GPT-5.4 nano, smaller model variants designed for speed and low cost in subagent pipelines, tool calling, and multimodal image tasks — completing a model family that now spans from nano (real-time, cheap) through Instant, Thinking, and Pro (maximum reasoning depth). The release allows developers to compose multi-agent systems using different models for different cognitive loads, cutting inference cost for routine steps while reserving expensive compute for complex reasoning.",
-      "lateral_hook": "connects to hummingbird metabolic efficiency",
-      "lateral_explanation": "A hummingbird's heart beats 1,200 times per minute and its wings flap 80 times per second — sustained at enormous metabolic cost — but the hummingbird evolved a nightly torpor state where it drops its heart rate to 50 bpm and its temperature to near-ambient to survive until morning. GPT-5.4 nano is ",
-      "read_time_min": 3,
-      "depth": "building",
-      "image_keyword": "efficient processor chip",
-      "url": "https://llm-stats.com/ai-news"
-    },
-    {
-      "id": "8",
-      "topic": "GEN.AI",
-      "headline": "Anthropic launches the Anthropic Institute: Jack Clark leads research on AI's economic, legal, and societal impacts",
-      "summary": "Anthropic established the Anthropic Institute on March 11, consolidating three existing research groups — Frontier Red Team, Societal Impacts, and Economic Research — under co-founder Jack Clark to study how advanced AI reshapes jobs, the legal system, and governance of recursive self-improvement. New hires include Matt Botvinick (Google DeepMind) on AI and the rule of law, Anton Korinek on transformative AI economics, and Zoë Hitzig connecting economics research to model training.",
-      "lateral_hook": "connects to Lloyd's of London risk quantification",
-      "lateral_explanation": "Lloyd's of London was founded in a coffee house in 1688 not as an insurance company but as a place where merchants could collectively share information about which ships were seaworthy and which weren't — essentially building the world's first systematic framework for pricing risks that had never be",
-      "read_time_min": 4,
-      "depth": "building",
-      "image_keyword": "research institute",
-      "url": "https://www.eweek.com/news/anthropic-institute-launch-march-2026/"
-    },
-    {
-      "id": "9",
-      "topic": "GEN.AI",
-      "headline": "OpenAI upgrades Responses API with agent skills and terminal shell — any capability now exposable as an agent tool",
-      "summary": "OpenAI upgraded its Responses API to support agent skills — a standardized endpoint pattern letting developers expose any tool, database, or codebase capability to agents through a simple API call — alongside a complete terminal shell integration for code execution within agentic workflows. The update lowers the infrastructure threshold for building production-grade multi-agent systems that can navigate real file systems, run scripts, and chain tool calls without custom scaffolding.",
-      "lateral_hook": "connects to Lego Technic modular connector standard",
-      "lateral_explanation": "Before Lego introduced the standardized stud-and-tube connector geometry in 1958, building toys were incompatible across manufacturers — each piece only connected to pieces from the same set. Lego's breakthrough was not a better brick but a universal interface that made any piece compatible with any",
-      "read_time_min": 4,
-      "depth": "deep",
-      "image_keyword": "modular API interface",
-      "url": "https://venturebeat.com/orchestration/openai-upgrades-its-responses-api-to-support-agent-skills-and-a-complete"
-    },
-    {
-      "id": "10",
-      "topic": "GEN.AI",
-      "headline": "Basis raises $100M Series B at $1.15B valuation for agentic accounting — autonomous audits and tax prep",
-      "summary": "Basis closed a $100M Series B at a $1.15B valuation for its agentic accounting platform that handles audit workflows, tax preparation, and financial close processes autonomously — positioning itself as the first AI-native unicorn in professional accounting. Rather than replacing accounting software, the platform deploys agents that navigate the same tools accountants use, taking ownership of multi-step workflows from data collection through to deliverable output.",
-      "lateral_hook": "connects to Medici double-entry bookkeeping innovation",
-      "lateral_explanation": "When Luca Pacioli published the first systematic treatment of double-entry bookkeeping in 1494, he was not inventing accounting — he was systematizing a practice that the Medici banks had already discovered unlocked something transformative: the ability to see the financial state of a business at an",
-      "read_time_min": 4,
-      "depth": "building",
-      "image_keyword": "accounting finance",
-      "url": "https://blog.mean.ceo/ai-startup-funding-news-march-2026/"
-    },
-    {
-      "id": "11",
-      "topic": "AI WORKFORCE",
-      "headline": "IQVIA.ai launches with 150 deployed agents across 19 of the top 20 pharma companies — powered by NVIDIA Nemotron",
-      "summary": "IQVIA unveiled IQVIA.ai at NVIDIA GTC on March 16 — a unified agentic AI platform built on Nemotron and LangChain — and disclosed it has already deployed more than 150 intelligent agents across internal teams and client environments including 19 of the top 20 pharmaceutical companies. The platform handles clinical research coordination, regulatory submissions, and patient data analysis under healthcare-grade compliance, making IQVIA the largest-scale live AI agent deployment in life sciences to date.",
-      "lateral_hook": "connects to apothecary guild standardization",
-      "lateral_explanation": "In 17th-century Europe, the apothecary guilds created the first standardized pharmacopoeias — official lists of approved substances, dosages, and preparation methods — not to restrict innovation but to ensure that a remedy prescribed by a physician in London would be made identically by an apothecar",
-      "read_time_min": 5,
-      "depth": "building",
-      "image_keyword": "pharmaceutical lab",
-      "url": "https://www.businesswire.com/news/home/20260316372554/en/IQVIA-Unveils-IQVIA.ai-a-Unified-Agentic-AI-Platform-Powered-by-NVIDIA-to-Improve-Efficiency-and-Decision-Making-Across-Life-Sciences"
-    },
-    {
-      "id": "12",
-      "topic": "AI WORKFORCE",
-      "headline": "EY hits 4x–5x coding productivity by connecting agents to internal code repos and engineering standards",
-      "summary": "EY's product development team reached 4x to 5x productivity gains not by adopting new AI tools but by connecting coding agents to EY's own code repositories, engineering standards, and compliance frameworks — without that internal context, agents produced generic code requiring extensive rework. Once connected, engineers shifted from writing code to orchestrating agents toward the right databases and specifications, establishing a production benchmark for what differentiated enterprise AI deployment looks like vs. generic tool adoption.",
-      "lateral_hook": "connects to Taylor Scientific Management time-motion studies",
-      "lateral_explanation": "Frederick Taylor's Scientific Management in 1911 was not about working harder — it was about eliminating the gap between what a worker's effort could theoretically produce and what it actually produced, by systematically removing friction: better tool placement, optimized motion paths, standardized ",
-      "read_time_min": 5,
-      "depth": "building",
-      "image_keyword": "productivity coding",
-      "url": "https://venturebeat.com/orchestration/ey-hit-4x-coding-productivity-by-connecting-ai-agents-to-engineering"
-    },
-    {
-      "id": "13",
-      "topic": "AI WORKFORCE",
-      "headline": "Perplexity Computer compresses 3.25 years of enterprise knowledge work into 4 weeks",
-      "summary": "Perplexity disclosed that one enterprise customer using Computer for Enterprise — its multi-model agent orchestrating 20 AI systems — completed a task backlog representing 3.25 years of accumulated knowledge work in four weeks, handling contract analysis, audit materials, and research synthesis across multiple data connectors. The reported ratio — one week of AI output equaling approximately ten months of human work — is the most concrete single-customer productivity claim published by a major AI agent platform to date.",
-      "lateral_hook": "connects to Stakhanovite labor movement",
-      "lateral_explanation": "In 1935, Soviet coal miner Alexei Stakhanov reportedly mined 102 tonnes of coal in a single shift — fourteen times the standard quota — and the Soviet state turned the story into a mass movement promoting worker heroism and output maximization. The Stakhanovite movement's problem was that the record",
-      "read_time_min": 5,
-      "depth": "building",
-      "image_keyword": "productivity work",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/perplexity-computer-enterprise-completed-3-years-work-4-weeks/"
-    },
-    {
-      "id": "14",
-      "topic": "AI WORKFORCE",
-      "headline": "Rivian spinout Mind Robotics raises $500M to build industrial AI robots using EV factory training data",
-      "summary": "Mind Robotics, spun out of Rivian with exclusive access to its electric vehicle factory data, raised $500M in a Series A led by Accel and Andreessen Horowitz to develop industrial AI robots with human-level dexterity and real-time decision-making. The company's $2B valuation represents a direct bet that proprietary factory data — not general robot hardware — is the key differentiator in industrial AI, using Rivian's manufacturing datasets to train robots on complex adaptive tasks that break traditional automation.",
-      "lateral_hook": "connects to Ford River Rouge integrated production",
-      "lateral_explanation": "Ford's River Rouge complex was not just a factory — it was the first facility where every input to automobile production (iron ore, glass, rubber) entered one end and finished cars came out the other, with Ford controlling every step in between. The key insight was that integration eliminated the bo",
-      "read_time_min": 5,
-      "depth": "building",
-      "image_keyword": "industrial robot manufacturing",
-      "url": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/"
-    },
-    {
-      "id": "15",
-      "topic": "AI WORKFORCE",
-      "headline": "Rhoda AI exits stealth with $450M Series A to deploy video-predictive robots in manufacturing and logistics",
-      "summary": "Rhoda AI emerged from 18 months of stealth with $450M in Series A funding at a $1.7B valuation, introducing FutureVision — a robotics intelligence platform trained on millions of internet videos to give industrial robots the ability to predict outcomes and act in unstructured real-world environments. Robots learn from watching humans perform tasks on video, then generalize that knowledge to novel situations without explicit reprogramming.",
-      "lateral_hook": "connects to cinema as imitation learning mechanism",
-      "lateral_explanation": "When Thomas Edison demonstrated moving pictures in 1893, the medium's first industrial application was not entertainment but instruction: early silent films were used in factories and vocational schools to show workers how tasks should be performed, because imitation of demonstrated motion turned ou",
-      "read_time_min": 5,
-      "depth": "building",
-      "image_keyword": "robot logistics warehouse",
-      "url": "https://www.businesswire.com/news/home/20260310715139/en/Rhoda-AI-Exits-Stealth-with-$450-Million-Series-A-to-Bring-Robots-Out-of-the-Lab-and-Into-the-Real-World"
-    },
-    {
-      "id": "16",
-      "topic": "AI WORKFORCE",
-      "headline": "Meta integrates Manus AI into Ads Manager: agents analyze campaigns, match creators, and draft client replies end-to-end",
-      "summary": "Meta deployed its Manus AI acquisition into Ads Manager, enabling agents to analyze campaign performance and recommend changes without leaving the platform, evaluate audience-creator fit across Instagram's Creator Marketplace, and draft client replies and manage projects inside WhatsApp Business. Unlike most AI ad tools operating on structured data, Manus reads campaign context holistically and takes initiative on multi-step marketing tasks across three major Meta surfaces simultaneously.",
-      "lateral_hook": "connects to 1960s agency account executive model disruption",
-      "lateral_explanation": "The Mad Men-era advertising agency was built on a human layer — the account executive — whose job was to translate client intentions into creative and media decisions, acting as an interpreter between brand strategy and execution. That intermediary role existed because the complexity of managing cam",
-      "read_time_min": 4,
-      "depth": "building",
-      "image_keyword": "digital advertising",
-      "url": "https://searchengineland.com/meta-adds-manus-ai-tools-into-ads-manager-469410"
-    },
-    {
-      "id": "17",
-      "topic": "AI WORKFORCE",
-      "headline": "OpenAI internal data agent: 2 engineers, 3 months, 70% AI-written code — now serving 4,000 employees across 600PB",
-      "summary": "OpenAI published details of its in-house data agent built by two engineers in three months with 70% of the code written by AI: the agent accepts plain-English questions in Slack and returns charts, dashboards, and analytical reports from a 70,000-dataset platform spanning over 600 petabytes, saving 2–4 hours per query across more than 4,000 users. The company explicitly stated any enterprise can replicate the architecture, positioning the project as a reference implementation for AI-native internal tools at scale.",
-      "lateral_hook": "connects to medieval scriptorium knowledge concentration",
-      "lateral_explanation": "In a medieval monastery, the scriptorium was the information bottleneck for the entire institution: all written knowledge had to pass through the hands of a small group of literate monks who controlled access to books, records, and archives on behalf of an organization of hundreds. The knowledge was",
-      "read_time_min": 5,
-      "depth": "building",
-      "image_keyword": "data analytics team",
-      "url": "https://venturebeat.com/technology/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and"
-    },
-    {
-      "id": "18",
-      "topic": "AI WORKFORCE",
-      "headline": "Zanskar AI makes more geothermal discoveries in 3 years than the industry found in the previous 30",
-      "summary": "Zanskar reported that its AI models have identified more viable geothermal sites in three years of operation than the entire geothermal industry found in the preceding three decades, by training models to interpret subsurface geological signals that human analysts could not reliably read at scale. The result represents one of the most dramatic documented cases of AI agents replacing expert human judgment in physical discovery work, with direct implications for clean energy deployment timelines.",
-      "lateral_hook": "connects to water divination vs systematic hydrology",
-      "lateral_explanation": "For centuries, communities relied on water diviners — practitioners who walked fields with forked sticks and claimed to sense underground water — not because the method worked reliably but because there was no systematic alternative: the subsurface was opaque, and educated guessing was all anyone ha",
-      "read_time_min": 4,
-      "depth": "building",
-      "image_keyword": "geothermal energy",
-      "url": "https://www.foxbusiness.com/politics/artificial-intelligence-helps-unlock-geothermal-potential"
-    },
-    {
-      "id": "19",
-      "topic": "AI WORKFORCE",
-      "headline": "Anthropic surveys 81,000 people in 159 countries: Sub-Saharan Africa and Asia are optimistic about AI; the West is not",
-      "summary": "Anthropic's global AI sentiment survey of 81,000 people in 159 countries found that people in Sub-Saharan Africa and Asia are significantly more optimistic about AI than those in Western Europe and North America — a pattern mirroring historical technology adoption curves where less-developed economies see more immediate potential for AI to close infrastructure gaps. The result has direct workforce implications: the markets most enthusiastic about AI agents replacing and augmenting workers are exactly where the next wave of enterprise AI deployment is happening fastest.",
-      "lateral_hook": "connects to Tocqueville's observation on old vs new societies",
-      "lateral_explanation": "Alexis de Tocqueville noted in Democracy in America that people born into established social hierarchies perceive change as loss — they have something to protect — while people born into more fluid circumstances perceive the same change as opportunity, because they have less invested in the status q",
-      "read_time_min": 4,
-      "depth": "building",
-      "image_keyword": "global survey map",
-      "url": "https://www.cnbc.com/2026/03/20/anthropic-whos-most-optimistic-about-ai-and-who-isnt.html"
-    },
-    {
-      "id": "20",
-      "topic": "AI WORKFORCE",
-      "headline": "Microsoft launches Copilot Checkout — enters the four-way agentic commerce race against Amazon, Google, and OpenAI",
-      "summary": "Microsoft launched Copilot Checkout, an AI agent capable of completing end-to-end purchases across partner retail platforms, directly entering the race against Amazon's AI shopping infrastructure, Google's shopping agents, and OpenAI's retailer app strategy. The four-way competition for control of the AI-mediated commercial transaction layer represents the highest-stakes enterprise deployment context in 2026: whichever agent infrastructure becomes the trusted checkout intermediary will own the data layer for every AI-initiated commercial transaction.",
-      "lateral_hook": "connects to cash register invention and merchant control",
-      "lateral_explanation": "When James Ritty invented the cash register in 1879, his original motivation was to stop his bartenders from stealing — but the device's lasting impact was that it standardized the transaction interface between merchant and customer in a way that made every sale visible, auditable, and comparable. W",
-      "read_time_min": 4,
-      "depth": "building",
-      "image_keyword": "digital checkout payment",
-      "url": "https://www.geekwire.com/2026/microsoft-launches-copilot-checkout-joining-the-ai-shopping-race-against-amazon-google-and-openai/"
-    },
-    {
-      "id": "21",
-      "topic": "Bohemia MADRILEÑa",
-      "headline": "El sueño de una noche de verano de Britten cierra hoy en el Teatro Real: última función de la temporada",
-      "summary": "La ópera de Benjamin Britten en el Teatro Real llega a su función final esta noche, cerrando una producción construida alrededor de la contratenor — voz deliberadamente no natural — para encarnar lo sobrenatural en el texto de Shakespeare, convirtiendo el foso en el umbral entre el mundo consciente y el del sueño. Última oportunidad de ver en vivo una de las óperas más lúcidamente oníricas del siglo XX en una de las mejores salas de Europa.",
-      "lateral_hook": "connects to court masque tradition and dream logic",
-      "lateral_explanation": "The Jacobean court masque was not theatre in the modern sense — it was a ritualized dream performed by and for the court itself, in which the boundaries between performer and audience, reality and allegory, dissolved deliberately. Britten's Midsummer Night's Dream inherits this structure directly: b",
-      "read_time_min": 3,
-      "depth": "intro",
-      "image_keyword": "opera stage",
-      "url": "https://www.teatroreal.es/en/season/season-25-26/opera"
-    },
-    {
-      "id": "22",
-      "topic": "Bohemia MADRILEÑa",
-      "headline": "I Encuentro de Bandas de Música Procesional en la Plaza Mayor: 150 músicos inauguran la Semana Santa de Madrid",
-      "summary": "Por primera vez en la historia de la ciudad, el Encuentro de Bandas de Música Procesional reúne hoy en la Plaza Mayor a más de 150 músicos de la Agrupación Jesús el Pobre y la Banda Sinfónica La Lira de Pozuelo, inaugurando oficialmente la Semana Santa 2026 con repertorio de marchas procesionales en el espacio civil barroco más emblemático de la capital. El evento convierte la Plaza Mayor en una sala de concierto a cielo abierto, recuperando su función original como escenario de ritual urbano colectivo.",
-      "lateral_hook": "connects to Ottoman mehter military music becoming civic ritual",
-      "lateral_explanation": "The Ottoman mehter — the janissary military band — was originally designed to precede armies into battle, its specific instrumentation and rhythmic patterns engineered to psychologically prepare soldiers and terrify enemies through sound alone. As the Ottoman Empire's military power declined, the me",
-      "read_time_min": 3,
-      "depth": "intro",
-      "image_keyword": "procession band music",
-      "url": "https://www.esmadrid.com/en/easter-musical-programme"
-    },
-    {
-      "id": "23",
-      "topic": "Bohemia MADRILEÑa",
-      "headline": "Homenaje a Miguel de Molina en el Teatro Circo Price: la copla como resistencia y memoria",
-      "summary": "El Teatro Circo Price programa hoy un espectáculo de homenaje a Miguel de Molina — el cantaor malagueño exiliado por el franquismo a Argentina, donde continuó una carrera que el régimen intentó borrar — recuperando su repertorio de coplas y su figura como símbolo de resistencia cultural a través de artistas actuales. El acto cierra una semana de programación flamenca y de tradición musical española en el Price que ha consolidado el teatro como espacio de memoria performativa de la cultura popular.",
-      "lateral_hook": "connects to Lorca's duende and the aesthetics of persecution",
-      "lateral_explanation": "Federico García Lorca argued in his 1933 lecture on duende that authentic Spanish art could only be produced from an encounter with death — not as metaphor but as genuine proximity to the annihilation of the self. Miguel de Molina's coplas, performed after his exile and persecution, carry exactly th",
-      "read_time_min": 4,
-      "depth": "building",
-      "image_keyword": "flamenco stage performance",
-      "url": "https://www.laguiago.com/articulo/madrid/magia-musica-circo-circo-price-pierdas-espectaculos-que-revolucionan-madrid-temporada/20260219102617599699.html"
-    },
-    {
-      "id": "24",
-      "topic": "Bohemia MADRILEÑa",
-      "headline": "Semana Santa 2026 en Madrid: 6.000 sillas en la Puerta del Sol y programa récord del 27 de marzo al 5 de abril",
-      "summary": "Madrid abre esta semana el período de Semana Santa 2026 con la instalación de 6.000 sillas en la Puerta del Sol como tribuna oficial de procesiones, y un programa de diez días que combina cofradías procesionales con un ciclo de música sacra en iglesias y la Catedral de la Almudena — incluyendo el XIX Ciclo de Órgano de San Ginés, el Camerata Lírica con Las Siete Últimas Palabras, y conciertos corales en la Basílica de San Miguel. El programa de este año es el más extenso en la historia moderna de la ciudad.",
-      "lateral_hook": "connects to medieval mystery play urban staging",
-      "lateral_explanation": "The medieval mystery play cycle — performed in cities like York and Chester during Corpus Christi — was not staged in theatres but moved through the city itself: each guild performed its scene on a wheeled pageant wagon that stopped at fixed stations throughout the streets, so the audience experienc",
-      "read_time_min": 3,
-      "depth": "intro",
-      "image_keyword": "Easter procession street",
-      "url": "https://diario.madrid.es/blog/2026/03/19/semana-santa-2026-madrid-programa-horarios-recorridos-todas-procesiones/"
-    },
-    {
-      "id": "25",
-      "topic": "Bohemia MADRILEÑa",
-      "headline": "Dúo de Guitarras Eresma en la Parroquia de Santa Cruz: apertura del ciclo de música sacra de Semana Santa",
-      "summary": "El Dúo de Guitarras Eresma inaugura mañana el ciclo de conciertos de Semana Santa en la Parroquia de Santa Cruz de Madrid, abriendo una semana de música sacra en espacios religiosos que conecta la tradición popular española con el repertorio litúrgico. El formato del dúo de guitarras clásicas en contexto litúrgico recupera un instrumento que en el siglo XVII era considerado demasiado profano para los espacios religiosos — y que hoy es su voz más reconocida.",
-      "lateral_hook": "connects to Arabic maqam modal tradition in sacred context",
-      "lateral_explanation": "The Spanish guitar's entry into sacred music is inseparable from its Moorish ancestry: the oud tunings, the modal patterns, and the ornamental vocabulary of classical Spanish guitar technique descend directly from the Arabic maqam system, which itself had an established tradition of sacred use in Su",
-      "read_time_min": 3,
-      "depth": "building",
-      "image_keyword": "classical guitar",
-      "url": "https://www.esmadrid.com/en/easter-musical-programme"
-    }
-  ],
-  "books": [
-    {
-      "id": "book-1",
-      "title": "The AI Agent Revolution: How Autonomous Systems Are Reshaping Enterprise",
-      "author": "Rakesh Gohel",
-      "why": "Directly addresses the agentic AI transformation David has been tracking this week — from IQVIA 150 agents in pharma to EY 4x coding productivity to Perplexity compressing 3.25 years of work into 4 weeks. Gohel combines the theoretical framework with enterprise case studies across banking and insurance, industries David's digest heavily covers.",
-      "topic": "AI",
-      "image_keyword": "autonomous system",
-      "buy_url": "https://www.amazon.com/AI-Agent-Revolution-Autonomous-Enterprise/dp/B0D5P8FQZ2"
-    },
-    {
-      "id": "book-2",
-      "title": "Money Machine: How AI Payments Are Reshaping Global Finance",
-      "author": "Melanie Swan",
-      "why": "Directly relevant to today's four-way agentic commerce race — Microsoft Copilot Checkout, OpenAI pivoting its shopping strategy, Amazon's 0B OpenAI investment — this book examines how AI transforms payment infrastructure and commercial transaction layers at institutional scale.",
-      "topic": "AI",
-      "image_keyword": "fintech payment",
-      "buy_url": "https://www.amazon.com/Money-Machine-Payments-Reshaping-Global/dp/B0D2S9HKQW"
-    }
-  ],
+  "date": "2026-03-23",
+  "topics": ["GEN.AI", "AI WORKFORCE", "Bohemia MADRILEÑa"],
   "score": {
     "total": 8,
     "by_topic": {
@@ -334,5 +8,52 @@
       "AI WORKFORCE": 4,
       "Bohemia MADRILEÑa": -2
     }
-  }
+  },
+  "stories": [
+    {"id":"1","topic":"GEN.AI","headline":"Anthropic ships Claude Code Channels: control live AI coding sessions from Telegram and Discord on mobile","summary":"Released March 20 as a research preview, Claude Code Channels enables developers to message a live Claude Code session running on their desktop from Telegram or Discord on their phone — the agent responds back after executing code, running tests, or fixing bugs with full filesystem, MCP, and git access. The plugin-based architecture already has community requests for Slack, WhatsApp, and iMessage, positioning it as Anthropic's direct answer to OpenClaw's mobile-first headstart in the async developer agent space.","lateral_hook":"connects to ship-to-shore radio teletype protocols","lateral_explanation":"Ship-to-shore radio teletype systems in the 1930s solved exactly this problem: a captain needed to issue and receive orders without returning to port, so operators developed asynchronous relay protocols where messages queued aboard the ship, executed locally, and acknowledgments returned through the same channel. Claude Code Channels imports this architecture wholesale: the developer is the remote operator, the running Claude session is the autonomous vessel, and Telegram is the teletype channel.","read_time_min":4,"depth":"building","image_keyword":"mobile coding terminal","url":"https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels"},
+    {"id":"2","topic":"GEN.AI","headline":"Alibaba's Qwen 3.5 Small: 9B model matches 120B performance and runs offline on iPhone","summary":"Alibaba released the Qwen 3.5 Small series, a family of open-source models from 0.8B to 9B parameters that match models eight times their size on reasoning benchmarks — with the 4B variant excelling at agent tasks and the 9B running on-device on recent iPhones in offline mode. Built on a hybrid Gated Delta Network with sparse MoE architecture, the series permanently shifts the calculus on whether production AI deployments need cloud infrastructure or can live entirely on owned hardware.","lateral_hook":"connects to Foster's Rule of island dwarfism","lateral_explanation":"Foster's Rule describes the evolutionary tendency for large animals stranded on islands to shrink dramatically because resource scarcity rewards metabolic efficiency over brute size: island elephants became dwarf mammoths, island hippos became miniature. The Qwen 3.5 series follows an analogous pressure — deployment constraint (edge hardware, privacy, offline operation) — and the result is models that produce surprising capability density at small parameter counts. The 9B matching 120B performance is the mammalian equivalent of a 200kg island elephant doing everything a 5-ton mainland elephant can do.","read_time_min":5,"depth":"deep","image_keyword":"edge computing chip","url":"https://mlq.ai/news/alibaba-releases-open-source-qwen35-small-models-for-edge-devices/"},
+    {"id":"3","topic":"GEN.AI","headline":"MiroThinker 72B reaches 81.9% GAIA through 'interaction scaling' — 600 tool calls per task, fully open-source","summary":"MiroLab's open-source 72B research agent introduces interaction scaling as a third performance dimension alongside model size and context length — using RL to train the model to execute up to 600 tool calls per task in sustained multi-turn reasoning chains approaching paid GPT-5 performance on GAIA (81.9%) while remaining fully open-source. The result directly challenges the assumption that research-grade AI agents require proprietary closed models or frontier compute budgets.","lateral_hook":"connects to Socratic elenchus dialogue method","lateral_explanation":"Socrates' elenchus was not about what he knew but about how many iterations of question-and-answer he ran: each exchange exposed an assumption, tested it, surfaced a contradiction, and restarted from a cleaner premise. MiroThinker's interaction scaling is structurally identical: the model is trained to run cycles of tool call, observation, and revised query — the intelligence emerges from the number of verification loops, not from static knowledge. Socrates was smarter at the end of a five-hour conversation than at the beginning, not because he had read more books.","read_time_min":6,"depth":"deep","image_keyword":"research agent benchmark","url":"https://github.com/MiroMindAI/MiroThinker"},
+    {"id":"4","topic":"GEN.AI","headline":"Apple iOS 26.4 ships Gemini-powered Siri with on-screen context awareness — reads whatever is on your display","summary":"Apple confirmed iOS 26.4 will ship with Siri rebuilt on Google's Gemini models under a multi-year partnership, introducing on-screen context awareness that lets Siri read the content currently displayed in any app — if a restaurant appears in Safari, Siri can make the reservation without the user copying the name or switching context. The transformation turns Siri from a command-response utility into a context-aware agent capable of chaining multi-step actions from a single natural language request.","lateral_hook":"connects to colonial governor's secretarial proxy system","lateral_explanation":"In colonial administration, the governor's secretary held power exceeding their formal title — the secretary decided which petitions reached the desk, framed them with context, and often drafted the response. The secretary's contextual knowledge of what the governor was currently looking at made the entire administration more effective than if every interaction required explicit instruction. Siri's on-screen awareness gives it exactly this positioning: it knows what you're looking at, so it can act as a capable intermediary rather than a command system requiring you to describe what you've already seen.","read_time_min":3,"depth":"intro","image_keyword":"smartphone AI assistant","url":"https://9to5mac.com/2026/03/20/apples-gemini-powered-siri-upgrade-could-still-arrive-this-month/"},
+    {"id":"5","topic":"GEN.AI","headline":"Kimi K2.5 on Cloudflare edge: 256K agentic context for any developer without managing servers","summary":"Moonshot AI's Kimi K2.5 — with a 256,000 token context window optimized for multi-step agentic tasks — is now available through Cloudflare Workers AI for edge deployment, giving any developer access to frontier-level long-context reasoning without managing infrastructure. Cloudflare simultaneously shipped Bonk, an automated GitHub code review agent built on Kimi K2.5 that serves teams without dedicated reviewers.","lateral_hook":"connects to Roman annona grain distribution network","lateral_explanation":"The Roman annona — feeding 1.2 million people in imperial Rome — worked by placing warehouses at Ostia harbor and along major roads, routing provisioning requests to the nearest available stock. The key insight was that decentralization reduced latency: you didn't need to go to Rome to get Roman grain. Kimi K2.5 on Cloudflare edge replicates this for AI inference: frontier-level reasoning is now available at the network edge closest to the request, without routing latency to a centralized data center.","read_time_min":4,"depth":"building","image_keyword":"edge cloud network","url":"https://www.labla.org/latest-ai-model-releases-past-24-hours/ai-model-releases-march-22-2026-the-quiet-wave-nobodys-talking-about/"},
+    {"id":"6","topic":"GEN.AI","headline":"Anthropic launches Cowork persistent agent thread for Claude Desktop and mobile — Max plans today, Pro in 48h","summary":"Anthropic released the persistent agent thread for Cowork mode starting March 23 for Max plan users, enabling a long-running Claude Desktop agent that manages files and tasks across sessions without coding or configuration — continuing context between conversations the way a human assistant maintains awareness of ongoing projects. The release makes Cowork Anthropic's consumer-facing answer to the no-code AI workflow space, running natively on the user's desktop.","lateral_hook":"connects to Japanese genkan threshold ritual","lateral_explanation":"The Japanese genkan — the threshold space between outside and inside in a traditional home — is not simply an entrance but a transition ritual: you remove your shoes, change your posture, and signal a different mode of attention before entering the interior. A persistent agent thread creates an analogous cognitive threshold: rather than each conversation starting from scratch, the agent maintains accumulated context of ongoing projects, so transitioning to 'working with AI' requires no orientation overhead. What changes is not the agent's capability but its positional awareness — it always knows where the house is.","read_time_min":3,"depth":"intro","image_keyword":"desktop AI agent","url":"https://releasebot.io/updates/anthropic/claude"},
+    {"id":"7","topic":"GEN.AI","headline":"Alibaba launches Wukong enterprise AI platform: coordinated agents for 20M DingTalk users, Slack and Teams next","summary":"Alibaba launched Wukong on March 17, an enterprise AI agent platform that autonomously handles document editing, approval routing, meeting transcription, and business research through DingTalk's 20+ million corporate users — with Slack, Teams, and WeChat integrations on the roadmap. Wukong signals Alibaba's strategic pivot: enterprise agent infrastructure, not model releases, is the revenue-generating frontier.","lateral_hook":"connects to Mongol Empire Yam postal relay system","lateral_explanation":"The Mongol Yam system worked by placing relay stations every 25-40km across the steppe, each stocked with fresh horses and riders. A message from Beijing could reach the western empire edge in days not weeks because the system eliminated the bottleneck of fatigue by relaying continuously. Wukong's architecture imports this logic: 20 million users aren't adopting a new AI model but connecting to an agent relay layer that picks up any workflow task, executes it without fatigue, and passes the result forward.","read_time_min":5,"depth":"building","image_keyword":"enterprise collaboration","url":"https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html"},
+    {"id":"8","topic":"GEN.AI","headline":"Listen Labs raises $69M after 1M+ AI interviews: Microsoft cuts customer research wait from weeks to hours","summary":"Listen Labs raised $69M Series B led by Ribbit Capital after scaling 15x ARR in nine months by replacing surveys and focus groups with AI-moderated customer conversations running simultaneously across every segment — Microsoft cut its research cycle from weeks to hours. The company's $500M valuation represents the first clearly documented case of AI replacing a knowledge work function at the scale of one million conversations.","lateral_hook":"connects to Delphic oracle consultation model","lateral_explanation":"The Delphic oracle's power came not from divine insight but from being the single point where information patterns of thousands of simultaneous consultations accumulated into detectable signals about which strategies succeeded. Listen Labs operates by the same structural logic: the platform gains predictive power not from any single interview but from running every consultation simultaneously, building a pattern-recognition layer no individual enterprise research function can replicate alone.","read_time_min":5,"depth":"building","image_keyword":"customer interview AI","url":"https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"},
+    {"id":"9","topic":"GEN.AI","headline":"Mistral Small 3.1 24B: production-grade open-weight multimodal at $0.03/M input with 128K context","summary":"Mistral released Small 3.1 24B with vision capabilities, a 128K context window, and input pricing at $0.03/M tokens — significantly below GPT-5.4 mini — positioning it as a production-grade option for enterprises needing frontier multimodal performance without proprietary model lock-in. Each month the performance threshold for 'good enough for production' moves further down the open-source ladder.","lateral_hook":"connects to Bessemer steel process commoditization","lateral_explanation":"When Henry Bessemer patented his steel-making process in 1856, wrought iron had been dominant for centuries — expensive and limiting what could be built at scale. The Bessemer converter cut production time from days to 15 minutes and cost by 90%, collapsing iron's economic moat overnight. Mistral Small 3.1 at $0.03/M applies the same pressure to AI inference: the moment production-grade multimodal reasoning becomes cheaper than a dedicated analytics team, the cost justification for proprietary models collapses exactly as iron's did when steel became cheap enough to build bridges.","read_time_min":4,"depth":"building","image_keyword":"open source model code","url":"https://llm-stats.com/llm-updates"},
+    {"id":"10","topic":"GEN.AI","headline":"CUDA Agent: open-source GPU kernel optimizer outperforms GPT-5.4 and Claude on hardware-specific code","summary":"Independent developers shipped CUDA Agent, a specialized open-source tool that writes and optimizes GPU kernels more effectively than GPT-5.4 and Claude on hardware-specific tasks — showing that generalist frontier models are systematically outclassed by narrow specialist agents trained on domain-specific reward signals. The pattern mirrors protein folding: meaningful AI progress comes not from larger general models but from agents fine-tuned on the specific feedback loops of a given domain.","lateral_hook":"connects to medieval guild mastery vs journeyman stratification","lateral_explanation":"Medieval craft guilds created a three-tier system specifically because general capability was insufficient for the most demanding work: a journeyman could execute standard pieces, but a master handled edge cases requiring domain expertise built from years of specific feedback. CUDA Agent shows this stratification reproducing in AI: GPT-5.4 is the skilled journeyman, but domain-specific agents trained on GPU optimization reward signals are the masters — their training signal is narrower and more precise, producing work the generalist cannot match.","read_time_min":5,"depth":"deep","image_keyword":"GPU kernel code","url":"https://www.labla.org/latest-ai-model-releases-past-24-hours/ai-model-releases-march-22-2026-the-quiet-wave-nobodys-talking-about/"},
+    {"id":"11","topic":"AI WORKFORCE","headline":"Workday integrates Sana as its AI front door: all data, all workflows, any employee — no code required","summary":"Workday announced Sana as its new unified AI infrastructure layer, giving all Workday customers a conversational interface to ask questions, run reports, and invoke transactions directly against enterprise data without navigating complex menus — while automatically respecting each employee's security permissions. The Agent Development Studio lets employees build internal workflow apps using drag-and-drop tools without requiring engineering resources.","lateral_hook":"connects to Norman Exchequer administrative reform","lateral_explanation":"William I's Norman administration introduced the Exchequer as a way to make the complex finances of a conquered kingdom legible to administrators who couldn't trust the oral reports of local sheriffs. The Exchequer didn't give the king more power; it gave him access to information already existing but opaque to the center. Workday's Sana interface does the same thing to enterprise data: the information always existed in Workday's database, embedded in navigation hierarchies requiring training to access. The conversational layer is the Exchequer cloth — it makes existing information legible without changing what's stored.","read_time_min":5,"depth":"building","image_keyword":"enterprise workflow dashboard","url":"https://joshbersin.com/2026/03/workday-and-sana-unveil-a-bold-new-strategy-for-ai/"},
+    {"id":"12","topic":"AI WORKFORCE","headline":"Alibaba Wukong ships to 20M enterprise users: agents edit docs, route approvals, and transcribe meetings autonomously","summary":"Alibaba's Wukong platform launched March 17 with agents that autonomously handle document editing, approval routing, meeting transcription, and business research — operating continuously through DingTalk's 20+ million corporate user base without requiring structured inputs or human prompting at each step. The platform's emergence from a complete infrastructure rewrite marks Alibaba's clearest strategic pivot: enterprise agent fleets, not communication tools, are the next growth bet.","lateral_hook":"connects to Dutch East India Company VOC centralized trade network","lateral_explanation":"The Dutch East India Company solved a specific coordination problem: how do you manage thousands of trading agents operating simultaneously across three oceans, each making autonomous decisions, without coordination collapsing into chaos or corruption? Their answer was standardized procedures embedded in company training and charter, combined with central reporting back to Amsterdam. Wukong's coordinated agent fleet faces the same problem: 20 million users generating autonomous agent actions need a governance layer maintaining coherence across simultaneous workflows.","read_time_min":4,"depth":"building","image_keyword":"enterprise agents automation","url":"https://www.cnbc.com/2026/03/17/alibaba-wukong-ai-enterprise-tool-restructuring-qwen-exits.html"},
+    {"id":"13","topic":"AI WORKFORCE","headline":"Salesforce Slackbot GA: role-specific AI agent reads your work context and executes across sales, service, engineering","summary":"Salesforce's upgraded Slackbot became generally available in March as a personal AI agent that learns individual work patterns by reading messages, files, and channel access — then executing role-specific workflows for sales, marketing, engineering, service, and operations without leaving Slack. Built on Anthropic's Claude and integrated with Agentforce, the agent handles a complete task layer within the interface where most enterprise knowledge work already happens.","lateral_hook":"connects to Japanese nemawashi consensus-building practice","lateral_explanation":"Japanese nemawashi — 'going around the roots' — describes the consensus-building process before a formal decision: you brief each stakeholder individually, incorporate their concerns, and only call a meeting when everyone has already agreed. The process acknowledges that formal meeting time is too valuable for information transfer. Salesforce Slackbot embeds nemawashi logic by surfacing CRM context, draft responses, and project history before the meeting happens — so every formal interaction is already prefaced by the preparation that Japanese organizations build manually.","read_time_min":4,"depth":"intro","image_keyword":"workplace AI Slack","url":"https://www.salesforce.com/news/press-releases/2026/01/13/slackbot-announcement/"},
+    {"id":"14","topic":"AI WORKFORCE","headline":"ServiceNow AI Gateway March 2026: AI Steward enforcement goes live, MCP servers now centrally governed","summary":"ServiceNow's March 2026 AI Gateway update activated enforcement of AI Steward approval decisions enterprise-wide, with automated client registration via CIMD and per-toggle PII detection for individual MCP servers — meaning IT governance teams now control which AI models access which workflows, with full audit trails. The update marks the moment enterprise AI governance shifted from advisory to operational.","lateral_hook":"connects to medieval sumptuary law enforcement","lateral_explanation":"Medieval sumptuary laws regulating garments for different social ranks were not about aesthetics but about information legibility: in a pre-literate society, visible markers of rank had to be legally enforced to remain readable, or the social order became ambiguous. ServiceNow's AI Steward enforcement operates on the same logic: in a system where thousands of AI agents can theoretically access any workflow, the governance layer's job is to make access control visible and auditable — to ensure the rank hierarchy of which agents can do what remains readable to the humans governing the system.","read_time_min":5,"depth":"deep","image_keyword":"IT governance compliance","url":"https://www.servicenow.com/community/now-assist-articles/ai-gateway-what-s-new-in-the-march-2026-release/ta-p/3501670"},
+    {"id":"15","topic":"AI WORKFORCE","headline":"Listen Labs AI interviews replace 1M surveys: Microsoft cuts customer research cycle from weeks to hours","summary":"Listen Labs has conducted over one million AI-moderated customer interviews for enterprises including Microsoft, Sweetgreen, Perplexity, and Robinhood — replacing research cycles that previously took weeks with results in hours by running qualitative interviews with every segment simultaneously. The $500M valuation and 15x ARR growth in nine months represent the first clearly documented case of AI replacing an entire knowledge work function at enterprise scale.","lateral_hook":"connects to Dewey Decimal System accessibility breakthrough","lateral_explanation":"The Dewey Decimal Classification system transformed public libraries not by creating new knowledge but by making existing knowledge findable — the insight was that accessibility was the bottleneck, not content creation. Listen Labs inverts this: in customer research, the bottleneck was never access to willing respondents but the cost and time of synthesizing qualitative responses at scale. AI moderated interviews remove the synthesis bottleneck the same way Dewey removed the findability bottleneck: the knowledge was always there, the constraint was the process for extracting it.","read_time_min":5,"depth":"building","image_keyword":"customer research insights","url":"https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"},
+    {"id":"16","topic":"AI WORKFORCE","headline":"XPENG VLA 2.0 rolls out Level 4 autonomy to customer vehicles — first physical AI agent at mass consumer scale","summary":"XPENG began rolling out VLA 2.0 to existing customer vehicles in March 2026, making it the first Level 4 autonomous driving system deployed to consumer cars at scale rather than in controlled pilot zones. VLA 2.0 processes unstructured real-world environments through a multimodal reasoning model rather than predefined rules — marking the moment AI agents crossed from desktop workflows into physical autonomy deployed to millions of road users.","lateral_hook":"connects to proprioception development in surgical training","lateral_explanation":"Surgical training research documents that surgeons practicing laparoscopic procedures using simulation showed faster learning curves in actual operations — not because simulation was more realistic but because it created a deliberate feedback loop between motor action and outcome that the body internalizes as proprioceptive memory. VLA 2.0's deployment creates the same feedback architecture at automotive scale: each edge case encountered in real-world driving becomes training signal for the next version, creating proprioceptive memory no simulation environment can pre-construct.","read_time_min":5,"depth":"deep","image_keyword":"autonomous vehicle road","url":"https://aiagentstore.ai/ai-agent-news/2026-march"},
+    {"id":"17","topic":"AI WORKFORCE","headline":"CXAI launches Zero-Touch Campus Deployment: AI automates enterprise workplace onboarding across global offices","summary":"CXAI launched its AI-powered Zero-Touch Campus Deployment Platform on March 17, automating the full sequence of new employee workplace onboarding — access provisioning, device setup, navigation, and facility orientation — across global corporate campuses without manual IT intervention. The platform represents the shift of AI from individual productivity tools to infrastructure-layer systems that operate entire physical work environments.","lateral_hook":"connects to Bentham's panopticon architectural theory","lateral_explanation":"Jeremy Bentham's panopticon was not primarily about surveillance but about behavioral normalization through implied observation: inmates could never know when they were being watched, so they behaved as if always watched. CXAI's Zero-Touch Campus creates an analogous structure: AI-driven analytics continuously monitor access patterns, workflow completions, and facility usage across every touchpoint, creating a system where organizational behavior is always legible to the platform without requiring individual human supervisors. The functional difference from Bentham's panopticon is that the observed subjects are processes, not prisoners.","read_time_min":4,"depth":"building","image_keyword":"smart office campus","url":"https://www.wallstreetreporter.com/2026/03/17/cxai-nasdaq-cxai-launches-ai-powered-zero-touch-campus-deployment-platform-for-enterprise-workplaces/"},
+    {"id":"18","topic":"AI WORKFORCE","headline":"Samsung Galaxy S26 'Now Nudge': agentic AI predicts your next action before you ask — 1.4 billion devices","summary":"Samsung launched Galaxy S26 with Now Nudge, an on-device agentic feature that learns behavioral patterns and proactively suggests actions — restaurant reservations, follow-up messages, calendar rescheduling — before users search for what to do, running alongside Gemini and Perplexity agents. With the global release, agentic AI that anticipates rather than responds will be in more than 1.4 billion active Samsung devices by Q2 2026.","lateral_hook":"connects to Victorian domestic service anticipatory duty","lateral_explanation":"The Victorian butler's primary skill was anticipation — the highest compliment was that guests found what they needed before they knew they needed it: the fresh drink appeared as the glass emptied, the carriage ordered before the conversation about leaving concluded. This anticipatory service was not telepathy but pattern recognition accumulated over years of observing the same household's behavioral rhythms. Samsung's Now Nudge imports this model: the intelligence is not in answering requests but in recognizing the moment before the request forms, which requires exactly the longitudinal behavioral memory that made the Victorian butler irreplaceable.","read_time_min":3,"depth":"intro","image_keyword":"smartphone AI anticipation","url":"https://aiagentstore.ai/ai-agent-news/2026-march"},
+    {"id":"19","topic":"AI WORKFORCE","headline":"The enterprise AI OS war: Salesforce, ServiceNow, Workday, SAP, and Oracle all claim the same stack","summary":"Salesforce, ServiceNow, Workday, SAP, and Oracle are simultaneously marketing their platform as the unified enterprise AI operating system — creating a winner-take-most battle for the agent orchestration layer across HR, CRM, ITSM, and ERP. The competitive dynamic mirrors the 2010s mobile platform war: the near-term outcome isn't one winner but a messy multi-vendor integration problem until one platform achieves enough cross-function adoption to become the default.","lateral_hook":"connects to Betamax vs VHS format war distribution logic","lateral_explanation":"The Betamax vs VHS format war is remembered as a technical contest, but the decisive factor was not quality — Betamax was arguably superior — but distribution: VHS had longer tape capacity matching rental feature film length, which drove video store adoption, which drove consumer adoption, which locked in the standard through installed base. The enterprise AI OS war follows the same logic: technical capabilities matter less than which platform first achieves critical mass in cross-function enterprise adoption, because the standard will be set by whoever first becomes the assumed integration point across HR, CRM, and ITSM simultaneously.","read_time_min":5,"depth":"building","image_keyword":"enterprise platform competition","url":"https://salesforcedevops.net/index.php/2025/02/20/ai-agents-take-center-stage-workday-servicenow-and-sap-challenge-agentforce/"},
+    {"id":"20","topic":"AI WORKFORCE","headline":"PwC: 79% of enterprises run AI agents in 2026 — most migration is from legacy RPA to agentic architectures","summary":"PwC survey data shows 79% of enterprises are already running AI agents in 2026, with most deployments migrating from rules-based RPA to agentic architectures because legacy automation cannot handle the exception volume in complex operational workflows. Finance reports cost reductions up to 70%; HR cuts onboarding cycle times by up to 80%; agentic sales deployments show 4x to 7x conversion improvements.","lateral_hook":"connects to English enclosure movement labor displacement","lateral_explanation":"The English enclosure movement converted open common land to enclosed private farms not by eliminating farming but by changing who controlled the workflow — the same physical labor was required, but now organized through landlord instruction rather than customary practice, displacing thousands who had performed identical tasks under the old system. The migration from RPA to agentic architectures is structurally analogous: the enterprise workflows are the same, but agentic AI controls the decision layer that RPA could not, displacing the human judgment layer embedded in every rule-based automation exception path.","read_time_min":4,"depth":"building","image_keyword":"business automation metrics","url":"https://www.pwc.com/us/en/tech-effect/ai-analytics/ai-predictions.html"},
+    {"id":"21","topic":"Bohemia MADRILEÑa","headline":"Café Pombo, retrato de un Madrid que ya no existe: Telemadrid documenta la tertulia de Ramón Gómez de la Serna","summary":"Telemadrid dedicó en febrero un reportaje al Café de la Calle Carretas donde Ramón Gómez de la Serna organizó durante décadas la tertulia más influyente del Madrid de principios del siglo XX — reuniendo a la vanguardia española en un formato híbrido entre conferencia, performance y conversación que él mismo inventó. Del edificio ya no queda nada salvo una inscripción en el suelo, pero el modelo de tertulia como 'formato narrativo con estilo propio' es el antepasado directo del podcast de ideas y el club de lectura como experiencia de comunidad.","lateral_hook":"connects to Japanese ukiyo-e floating world social hubs","lateral_explanation":"The ukiyo-e tradition documented the social life of Edo's theaters and pleasure districts not as decadent escapism but as the nodes of a genuine civic culture: spaces outside institutional hierarchy where merchants, artisans, and intellectuals mixed freely. Café Pombo occupied the same sociological position in early 20th century Madrid: a space outside academic and political institutions where the emerging avant-garde defined its identity through performance, argument, and mutual recognition. Both the ukiyo-e world and Pombo's tertulia were 'floating' precisely because they were not anchored to any fixed institution — their value was in their ephemerality and openness.","read_time_min":5,"depth":"building","image_keyword":"Madrid literary cafe","url":"https://www.telemadrid.es/programas/cuarto-de-maravillas/Cafe-Pombo-la-tertulia-que-convirtio-a-Ramon-Gomez-de-la-Serna-en-icono-del-Madrid-bohemio-2-2865933439--20260227074300.html"},
+    {"id":"22","topic":"Bohemia MADRILEÑa","headline":"El gitano por amor en el Teatro de la Zarzuela: ópera de Cervantes no representada en 200 años (25 marzo–12 abril)","summary":"El Teatro de la Zarzuela estrena esta semana la recuperación de El gitano por amor, ópera buffa de Manuel García basada en La gitanilla de Cervantes — compuesta en 1828 con libreto en español y sin representarse durante casi 200 años hasta ser rescatada por el Estudio de Ópera de Málaga y premiada con los Ópera XXI. La producción de Emilio Sagi lleva a escena tres siglos de cadena de transmisión literaria: una novela de 1613, convertida en ópera en 1828, recuperada en 2026.","lateral_hook":"connects to Homeric oral tradition transmission archaeology","lateral_explanation":"Homeric scholarship reconstructed how the Iliad and Odyssey were transmitted not through written texts but through generations of oral singers who each held a version in memory, adapting it to local audiences while preserving structural features. El gitano por amor undergoes an analogous transmission: Cervantes' La gitanilla (1613) becomes Manuel García's opera (1828), then 200 years of unperformed manuscript, then the 2026 Zarzuela production. Each transmission is a recomposition, not a copy — what the Teatro de la Zarzuela is performing is not Cervantes but the accumulated decisions of everyone who held the story between then and now.","read_time_min":3,"depth":"intro","image_keyword":"opera theater stage","url":"https://teatrodelazarzuela.inaem.gob.es/es/temporada/lirica-2025-2026/el-gitano-por-amor"},
+    {"id":"23","topic":"Bohemia MADRILEÑa","headline":"Tertulia Literaria Rafael Montesinos — Versos Entrevistados: poesía como conversación viva en el Retiro (24 marzo)","summary":"La Tertulia Literaria Hispanoamericana 'Rafael Montesinos' — uno de los ciclos literarios más longevos de Madrid, activo en la Biblioteca Eugenio Trías del Retiro — programa mañana una sesión de 'Versos Entrevistados' con el poeta Jesús Urceloy y el editor Jorge Ortega, explorando el poema como espacio de conversación más que de monólogo. La tertulia lleva el nombre del poeta sevillano cronista del Madrid romántico y amigo personal de Luis Cernuda.","lateral_hook":"connects to Platonic symposium dialogue structure","lateral_explanation":"The Platonic symposium had a specific structure where Socrates intervened not to conclude but to expose the inadequacy of what had been said, reopening the question rather than closing it. The form was designed to prevent premature closure — the goal was not consensus but sustained collective inquiry. The tertulia literaria as Ramón Gómez de la Serna designed it (and as the Rafael Montesinos circle continues it) operates on the same premise: the poem is not an answer but a provocation that the gathering talks around, ensuring the question remains open at the end of the evening.","read_time_min":3,"depth":"intro","image_keyword":"poetry reading library","url":"https://www.noticiasretiro.com/2026/03/actividades-en-la-biblio-eugenio-trias-3/"},
+    {"id":"24","topic":"Bohemia MADRILEÑa","headline":"Presentación de Cautivos: El tesoro de Cervantes y Dalí en la Biblioteca del Retiro (26 marzo)","summary":"El 26 de marzo se presenta en la Biblioteca Eugenio Trías la novela Cautivos: El tesoro de Cervantes y Dalí de Jesús Lázaro Docio, obra que entrelaza el período de Cervantes como cautivo en Argel (1575–1580) — los cinco años que más marcaron su escritura posterior — con la figura de Salvador Dalí y un misterio construido sobre el archivo de ambos. La presentación reúne las dos herencias culturales más identificadas con el carácter español: el escritor del siglo XVII y el artista que lo representó en el XX.","lateral_hook":"connects to Thomas Browne's Pseudodoxia Epidemica methodology","lateral_explanation":"Thomas Browne's Pseudodoxia Epidemica (1646) was a book about the gap between what is commonly believed and what is actually known: its method was to take each received truth, trace its transmission history, and show how error accumulates through confident repetition. Cautivos applies the same epistemological pressure to cultural mythology: what do we actually know about Cervantes' captivity in Algiers versus what has been retold so many times it feels like certainty? The novel's pairing of Cervantes and Dalí — two figures whose biographies have been both documented and mythologized — is a test of how much a culture knows versus how much it merely remembers.","read_time_min":4,"depth":"building","image_keyword":"literary novel historical","url":"https://www.noticiasretiro.com/2026/03/actividades-en-la-biblio-eugenio-trias-3/"},
+    {"id":"25","topic":"Bohemia MADRILEÑa","headline":"XIX Ciclo 'Mujeres al Órgano' abre mañana en San Ginés: el instrumento que definió el sonido de Madrid durante cuatro siglos","summary":"El XIX Ciclo de Música de Órgano de San Ginés 'Mujeres al Órgano' abre mañana con intérpretes que recuperan el repertorio de composición e improvisación de órgano en tradición española y europea — un instrumento que durante cuatro siglos definió la vida acústica de Madrid y del que quedan menos de veinte instrumentos históricos en uso activo. El ciclo conecta la arquitectura sonora de la Semana Santa con una tradición de interpretación femenina que en el siglo XVII vivía mayoritariamente en conventos clausurados que aún estructuran el callejero del centro.","lateral_hook":"connects to Ottoman fasıl music gendered performance tradition","lateral_explanation":"The Ottoman fasıl was explicitly gendered in its institutional setting: the court fasıl was performed exclusively by male ensembles, while distinct female performance traditions developed in the harem and later in secular contexts. Spanish sacred organ tradition followed a structurally parallel history: public church organists were male by institutional rule, while female organists developed their practice within convents — which is exactly the institutional geography this cycle makes visible. Both traditions reveal how much musical culture was shaped not by talent distribution but by which physical spaces women were permitted to inhabit.","read_time_min":3,"depth":"intro","image_keyword":"pipe organ church","url":"https://www.esmadrid.com/en/easter-musical-programme"}
+  ],
+  "books": [
+    {
+      "id": "book-1",
+      "title": "Co-Intelligence: Living and Working with AI",
+      "author": "Ethan Mollick",
+      "why": "Mollick — Wharton professor and one of David's monitored sources — is the most evidence-based writer on how real professionals are changing how they work with AI. After a week of stories about Workday Sana, Salesforce Slackbot, and Samsung Now Nudge all embedding AI into daily work routines, this book gives the conceptual framework for what 'working with AI' actually means at the individual level versus the enterprise infrastructure level.",
+      "topic": "AI WORKFORCE",
+      "image_keyword": "human AI collaboration",
+      "buy_url": "https://www.amazon.com/Co-Intelligence-Living-Working-Ethan-Mollick/dp/059371671X"
+    },
+    {
+      "id": "book-2",
+      "title": "AI Engineering: Building Applications with Foundation Models",
+      "author": "Chip Huyen",
+      "why": "Huyen — one of David's monitored sources and author of the most-read O'Reilly book since release — wrote the definitive guide to building production AI applications. This week's stories about CUDA Agent specialization, MiroThinker interaction scaling, and Qwen 3.5 edge deployment all point to the same theme: AI engineering is becoming about composing specialized systems, not selecting the biggest model. Huyen's framework for evaluation, deployment, and reliability is the missing technical context.",
+      "topic": "GEN.AI",
+      "image_keyword": "AI engineering code",
+      "buy_url": "https://www.amazon.com/AI-Engineering-Building-Applications-Foundation/dp/1098166302"
+    }
+  ]
 }
