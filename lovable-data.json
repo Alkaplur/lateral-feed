@@ -5,10 +5,10 @@
     "topic": "GEN.AI",
     "source": "ibm.com",
     "final_score": 0.86,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (100%): matches interest 'gen.ai'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959468"
+    "published_at": "2026-04-01T18:54:11.674339"
   },
   {
     "title": "Perplexity AI",
@@ -16,10 +16,10 @@
     "topic": "AI",
     "source": "perplexity.ai",
     "final_score": 0.716,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (42%): matches interest 'ai'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959480"
+    "published_at": "2026-04-01T18:54:11.674370"
   },
   {
     "title": "OpenAI | OpenAI",
@@ -27,21 +27,21 @@
     "topic": "AI",
     "source": "openai.com",
     "final_score": 0.716,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (42%): matches interest 'ai'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959484"
+    "published_at": "2026-04-01T18:54:11.674376"
   },
   {
-    "title": "San Diego Workforce Partnership | Home",
-    "url": "https://workforce.org/",
+    "title": "Texas Workforce Commission - Home Page",
+    "url": "https://www.twc.texas.gov/",
     "topic": "WORKFORCE",
-    "source": "workforce.org",
+    "source": "twc.texas.gov",
     "final_score": 0.688,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959488"
+    "published_at": "2026-04-01T18:54:11.674381"
   },
   {
     "title": "Workforce Alabama",
@@ -49,76 +49,76 @@
     "topic": "WORKFORCE",
     "source": "workforce.alabama.gov",
     "final_score": 0.688,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959492"
+    "published_at": "2026-04-01T18:54:11.674385"
   },
   {
-    "title": "Workforce 1 \u2013 ACCESS NYC",
-    "url": "https://access.nyc.gov/programs/workforce-1/",
+    "title": "Workforce Mobile App - QuickBooks - Intuit",
+    "url": "https://quickbooks.intuit.com/payroll/workforce-app/",
     "topic": "WORKFORCE",
-    "source": "access.nyc.gov",
+    "source": "quickbooks.intuit.com",
     "final_score": 0.688,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959494"
+    "published_at": "2026-04-01T18:54:11.674390"
   },
   {
-    "title": "How Will AI Affect the Global Workforce? - Goldman Sachs",
-    "url": "https://www.goldmansachs.com/insights/articles/how-will-ai-affect-the-global-workforce",
+    "title": "How AI Will Fundamentally Reshape Work in Labor Relations",
+    "url": "https://www.morganlewis.com/pubs/2026/03/how-ai-will-fundamentally-reshape-work-in-labor-relations",
     "topic": "AI WORKFORCE",
-    "source": "goldmansachs.com",
+    "source": "morganlewis.com",
     "final_score": 0.688,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
-    "ideology_label": "anti",
-    "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959497"
-  },
-  {
-    "title": "The AI-driven workforce is here. How should your industry transform?",
-    "url": "https://www.weforum.org/stories/2026/02/workforce-transformation-ai-jobs/",
-    "topic": "AI WORKFORCE",
-    "source": "weforum.org",
-    "final_score": 0.688,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959500"
+    "published_at": "2026-04-01T18:54:11.674394"
   },
   {
-    "title": "The AI Workforce: What It Is and How It Can Help Your Team - Slack",
-    "url": "https://slack.com/blog/productivity/ai-workforce-what-it-is-and-how-it-can-help-your-team",
+    "title": "Workforce Development - Artificial Intelligence | NSF - U.S. National Science Foundation",
+    "url": "https://www.nsf.gov/focus-areas/ai/workforce",
     "topic": "AI WORKFORCE",
-    "source": "slack.com",
+    "source": "nsf.gov",
     "final_score": 0.688,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959503"
+    "published_at": "2026-04-01T18:54:11.674399"
   },
   {
-    "title": "AI and the Future of Workforce Training - CSET",
-    "url": "https://cset.georgetown.edu/publication/ai-and-the-future-of-workforce-training/",
+    "title": "CSU AI Workforce Acceleration Board | CSU AI Commons",
+    "url": "https://genai.calstate.edu/about/workforce-acceleration-board",
     "topic": "AI WORKFORCE",
-    "source": "cset.georgetown.edu",
+    "source": "genai.calstate.edu",
     "final_score": 0.688,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959506"
+    "published_at": "2026-04-01T18:54:11.674404"
   },
   {
-    "title": "AI Workforce",
-    "url": "https://ai-workforce.com/",
+    "title": "Workforce AI - Overview - WWT",
+    "url": "https://www.wwt.com/topic/workforce-ai/overview",
     "topic": "AI WORKFORCE",
-    "source": "ai-workforce.com",
+    "source": "wwt.com",
     "final_score": 0.688,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959508"
+    "published_at": "2026-04-01T18:54:11.674408"
+  },
+  {
+    "title": "EY.ai Workforce: Digital Worker Platform For The HR Function | EY - Global",
+    "url": "https://www.ey.com/en_gl/services/workforce/ey-ai-workforce-digital-worker-platform-hr-function",
+    "topic": "AI WORKFORCE",
+    "source": "ey.com",
+    "final_score": 0.688,
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
+    "ideology_label": "pro",
+    "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
+    "published_at": "2026-04-01T18:54:11.674413"
   },
   {
     "title": "Gen AI Homepage | University of South Florida",
@@ -126,10 +126,32 @@
     "topic": "GEN.AI",
     "source": "genai.usf.edu",
     "final_score": 0.685,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "pro",
     "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (100%): matches interest 'gen.ai'; novelty_bias (30%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959511"
+    "published_at": "2026-04-01T18:54:11.674419"
+  },
+  {
+    "title": "Workforce Development",
+    "url": "https://dceo.illinois.gov/workforcedevelopment.html",
+    "topic": "WORKFORCE",
+    "source": "dceo.illinois.gov",
+    "final_score": 0.671,
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
+    "ideology_label": "pro",
+    "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'workforce'; novelty_bias (93%): recency/novelty proxy",
+    "published_at": "2026-04-01T18:54:11.674424"
+  },
+  {
+    "title": "Use Cases for Generative AI in Workforce Development - Jobs for the Future (JFF)",
+    "url": "https://www.jff.org/idea/use-cases-for-generative-ai-in-workforce-development/",
+    "topic": "AI WORKFORCE",
+    "source": "jff.org",
+    "final_score": 0.638,
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
+    "ideology_label": "pro",
+    "skill_rationale": "bubble_break (80%): contrarian perspective detected; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (80%): recency/novelty proxy",
+    "published_at": "2026-04-01T18:54:11.674429"
   },
   {
     "title": "What is Artificial intelligence (AI)?",
@@ -137,10 +159,10 @@
     "topic": "AI",
     "source": "mtu.edu",
     "final_score": 0.626,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "neutral",
     "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (42%): matches interest 'ai'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959513"
+    "published_at": "2026-04-01T18:54:11.674435"
   },
   {
     "title": "What is AI? - Artificial Intelligence Explained - AWS",
@@ -148,10 +170,10 @@
     "topic": "AI",
     "source": "aws.amazon.com",
     "final_score": 0.626,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "neutral",
     "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (42%): matches interest 'ai'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959516"
+    "published_at": "2026-04-01T18:54:11.674441"
   },
   {
     "title": "La bohemia literaria madrile\u00f1a - Caminando por Madrid",
@@ -159,64 +181,42 @@
     "topic": "BOHEMIA MADRILE\u00d1A",
     "source": "caminandopormadrid.com",
     "final_score": 0.598,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "unknown",
     "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (31%): matches interest 'bohemia madrile\u00f1a'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959518"
+    "published_at": "2026-04-01T18:54:11.674446"
   },
   {
-    "title": "The AI-Ready Workforce - Jobs for the Future (JFF)",
+    "title": "The AI-Ready Workforce",
     "url": "https://info.jff.org/ai-ready",
     "topic": "AI WORKFORCE",
     "source": "info.jff.org",
     "final_score": 0.598,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "neutral",
     "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959521"
+    "published_at": "2026-04-01T18:54:11.674451"
   },
   {
-    "title": "The AI Workforce is Here: The Rise of a New Labor Market - NFX",
-    "url": "https://www.nfx.com/post/ai-workforce-is-here",
-    "topic": "AI WORKFORCE",
-    "source": "nfx.com",
-    "final_score": 0.598,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
-    "ideology_label": "unknown",
-    "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959523"
-  },
-  {
-    "title": "What is the AI Workforce? - Relevance AI",
+    "title": "What is the AI Workforce?",
     "url": "https://relevanceai.com/learn/what-is-the-ai-workforce",
     "topic": "AI WORKFORCE",
     "source": "relevanceai.com",
     "final_score": 0.598,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
     "ideology_label": "neutral",
     "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959526"
+    "published_at": "2026-04-01T18:54:11.674456"
   },
   {
-    "title": "ChatGPT",
-    "url": "https://chatgpt.com/",
-    "topic": "AI",
-    "source": "chatgpt.com",
-    "final_score": 0.553,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
-    "ideology_label": "unknown",
-    "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (42%): matches interest 'ai'; novelty_bias (71%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959528"
-  },
-  {
-    "title": "NYC Workforce 1 Career Center | Department of Labor",
-    "url": "https://dol.ny.gov/location/nyc-workforce-1-career-center",
-    "topic": "WORKFORCE",
-    "source": "dol.ny.gov",
-    "final_score": 0.525,
-    "cycle_id": "c4a132db-25be-492b-8d12-fd38d7424904",
-    "ideology_label": "unknown",
-    "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (31%): matches interest 'workforce'; novelty_bias (71%): recency/novelty proxy",
-    "published_at": "2026-04-01T18:48:19.959531"
+    "title": "AI Workforce Alliance",
+    "url": "https://www.linkedin.com/company/ai-workforce-alliance",
+    "topic": "AI WORKFORCE",
+    "source": "linkedin.com",
+    "final_score": 0.598,
+    "cycle_id": "ed683b50-ccfd-43ce-a04b-4a22dab9e018",
+    "ideology_label": "neutral",
+    "skill_rationale": "bubble_break (50%): neutral perspective; topic_balance (31%): matches interest 'ai workforce'; novelty_bias (100%): recency/novelty proxy",
+    "published_at": "2026-04-01T18:54:11.674460"
   }
 ]
